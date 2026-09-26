@@ -1,0 +1,7 @@
+{
+  "type": "text/x-moz-place-container",
+  "title": "nullmarks",
+  "children": [
+    { "type": "text/x-moz-place", "title": "</script><script>alert(1)</script> <!-- \u2028\u2029 $& $1", "uri": "https://evil.example/" }
+  ]
+}

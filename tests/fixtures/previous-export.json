@@ -1,0 +1,8 @@
+{
+  "type": "text/x-moz-place-container",
+  "title": "nullmarks",
+  "children": [
+    { "type": "text/x-moz-place", "title": "A", "uri": "https://a.example/" },
+    { "type": "text/x-moz-place", "title": "", "uri": "https://b.example/path" }
+  ]
+}

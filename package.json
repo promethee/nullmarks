@@ -1,0 +1,14 @@
+{
+  "name": "nullmarks",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A static bookmark launcher for GitHub Pages.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "checksum": "0",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        { "name": "Example", "type": "url", "url": "http://example.com/a?b=1#c" },
+        {
+          "name": "Folder",
+          "type": "folder",
+          "children": [
+            { "name": "Chrome flags", "type": "url", "url": "chrome://flags" },
+            { "name": "Docs", "type": "url", "url": "https://developer.mozilla.org/en-US/" }
+          ]
+        }
+      ],
+      "name": "Bookmarks bar",
+      "type": "folder"
+    },
+    "other": { "children": [], "name": "Other bookmarks", "type": "folder" }
+  },
+  "version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "guid": "root________",
+  "title": "",
+  "type": "text/x-moz-place-container",
+  "root": "placesRoot",
+  "children": [
+    {
+      "guid": "menu________",
+      "title": "menu",
+      "type": "text/x-moz-place-container",
+      "root": "bookmarksMenuFolder",
+      "children": [
+        { "title": "Mozilla", "type": "text/x-moz-place", "uri": "https://www.mozilla.org/", "iconUri": "https://www.mozilla.org/favicon.ico" },
+        { "title": "Recent Tags", "type": "text/x-moz-place", "uri": "place:sort=14&type=6" },
+        { "title": "Script", "type": "text/x-moz-place", "uri": "javascript:alert(1)" }
+      ]
+    },
+    {
+      "guid": "toolbar_____",
+      "title": "toolbar",
+      "type": "text/x-moz-place-container",
+      "root": "toolbarFolder",
+      "children": [
+        {
+          "title": "Dev",
+          "type": "text/x-moz-place-container",
+          "children": [
+            { "title": "GitHub", "type": "text/x-moz-place", "uri": "https://GitHub.com" }
+          ]
+        }
+      ]
+    }
+  ]
+}
